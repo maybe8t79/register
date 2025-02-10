@@ -1,0 +1,17 @@
+{
+  "repo": "",
+
+  "owner": {
+    "username": "maybe8t79",
+    "email": "kazunayxan@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "justanordinarysite", 
+       "value": "A"
+     }
+  },
+
+  "proxied": false
+}
